@@ -1,5 +1,6 @@
 # Ingredients
-#Instructions
 lemon
-avacado
+salt
 raisins
+avocado
+chili
